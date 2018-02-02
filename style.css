@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #99cc00;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:white;
+}
+
+.center{
+    text-align: center;
+}
